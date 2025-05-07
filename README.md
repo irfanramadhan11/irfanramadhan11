@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Irfan Ramadhan 👋
+
+![Irfan Ramadhan](img/ipan.jpeg)
 
 <!--
 **irfanramadhan11/irfanramadhan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@kelasfullstack**
+- 🌱 I’m currently learning **Laravel**
